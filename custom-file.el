@@ -22,7 +22,7 @@
      ("XXX+" . "#dc752f")
      ("\\?\\?\\?+" . "#dc752f")))
  '(package-selected-packages
-   '(hydra evil-collection evil general doom-themes helpful ivy-rich which-key rainbow-delimiters doom-modeline counsel ivy use-package company spacemacs-theme))
+   '(org-bullets org evil-magit magit vterm counsel-projectile projectile friendly-tramp-path hydra evil-collection evil general doom-themes helpful ivy-rich which-key rainbow-delimiters doom-modeline counsel ivy use-package company spacemacs-theme))
  '(spacemacs-theme-keyword-italic t)
  '(writeroom-global-effects
    '(writeroom-set-fullscreen writeroom-set-menu-bar-lines writeroom-set-tool-bar-lines writeroom-set-vertical-scroll-bars writeroom-set-bottom-divider-width))
